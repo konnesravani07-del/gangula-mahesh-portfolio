@@ -25,8 +25,8 @@ export const SITE = {
 
 export const ASSETS = {
   profile: profileAsset,
-  resume: "/MAHESH UPDATE RESUME.pdf",
-  resumeFilename: "MAHESH UPDATE RESUME.pdf",
+  resume: "/Gangula Mahesh - Resume.pdf",
+  resumeFilename: "Gangula Mahesh - Resume.pdf",
   certificates: [
     {
       id: "etabs",
